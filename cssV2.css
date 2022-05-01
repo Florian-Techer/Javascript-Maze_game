@@ -1,0 +1,11 @@
+body{
+	background-color: grey;
+}
+#canvas_holder{
+	
+	background-color: #fff;
+	height: 620px;
+	width: 1350px;
+	top: 0px;
+}
+
